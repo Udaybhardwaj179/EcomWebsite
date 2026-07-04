@@ -6,9 +6,9 @@ import { motion } from 'framer-motion';
 
 const accessoryCategories = [
   { name: 'Headphones & Earbuds', icon: Headphones, count: 24, image: 'https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&q=80&w=400' },
-  { name: 'Smart Watches', icon: Watch, count: 18, image: 'https://images.unsplash.com/photo-1544117518-290573c41c7b?auto=format&fit=crop&q=80&w=400' },
+  { name: 'Smart Watches', icon: Watch, count: 18, image: 'https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&q=80&w=400' },
   { name: 'Chargers & Cables', icon: Battery, count: 42, image: 'https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&q=80&w=400' },
-  { name: 'Phone Cases', icon: Smartphone, count: 150, image: 'https://images.unsplash.com/photo-1603313011101-31c167ac3271?auto=format&fit=crop&q=80&w=400' },
+  { name: 'Phone Cases', icon: Smartphone, count: 150, image: 'https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&q=80&w=400' },
   { name: 'Speakers', icon: Speaker, count: 12, image: 'https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&q=80&w=400' },
   { name: 'Screen Protectors', icon: Shield, count: 60, image: 'https://images.unsplash.com/photo-1621330396173-e41b1cafd17f?auto=format&fit=crop&q=80&w=400' },
 ];
